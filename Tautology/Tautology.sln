@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tautology", "Tautology\Tautology.csproj", "{E83E55E7-2C62-4907-A704-146D782BF513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83E55E7-2C62-4907-A704-146D782BF513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83E55E7-2C62-4907-A704-146D782BF513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83E55E7-2C62-4907-A704-146D782BF513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83E55E7-2C62-4907-A704-146D782BF513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
