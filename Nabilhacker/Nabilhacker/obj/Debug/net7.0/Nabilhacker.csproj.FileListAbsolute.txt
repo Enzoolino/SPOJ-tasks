@@ -1,0 +1,15 @@
+E:\Rider Repos\Nabilhacker\Nabilhacker\bin\Debug\net7.0\Nabilhacker.exe
+E:\Rider Repos\Nabilhacker\Nabilhacker\bin\Debug\net7.0\Nabilhacker.deps.json
+E:\Rider Repos\Nabilhacker\Nabilhacker\bin\Debug\net7.0\Nabilhacker.runtimeconfig.json
+E:\Rider Repos\Nabilhacker\Nabilhacker\bin\Debug\net7.0\Nabilhacker.dll
+E:\Rider Repos\Nabilhacker\Nabilhacker\bin\Debug\net7.0\Nabilhacker.pdb
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\Nabilhacker.csproj.AssemblyReference.cache
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\Nabilhacker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\Nabilhacker.AssemblyInfoInputs.cache
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\Nabilhacker.AssemblyInfo.cs
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\Nabilhacker.csproj.CoreCompileInputs.cache
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\Nabilhacker.dll
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\refint\Nabilhacker.dll
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\Nabilhacker.pdb
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\Nabilhacker.genruntimeconfig.cache
+E:\Rider Repos\Nabilhacker\Nabilhacker\obj\Debug\net7.0\ref\Nabilhacker.dll
