@@ -1,0 +1,15 @@
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\bin\Debug\net7.0\Enormous Input and Output Test.exe
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\bin\Debug\net7.0\Enormous Input and Output Test.deps.json
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\bin\Debug\net7.0\Enormous Input and Output Test.runtimeconfig.json
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\bin\Debug\net7.0\Enormous Input and Output Test.dll
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\bin\Debug\net7.0\Enormous Input and Output Test.pdb
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\Enormous Input and Output Test.csproj.AssemblyReference.cache
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\Enormous Input and Output Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\Enormous Input and Output Test.AssemblyInfoInputs.cache
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\Enormous Input and Output Test.AssemblyInfo.cs
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\Enormous Input and Output Test.csproj.CoreCompileInputs.cache
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\Enormous Input and Output Test.dll
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\refint\Enormous Input and Output Test.dll
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\Enormous Input and Output Test.pdb
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\Enormous Input and Output Test.genruntimeconfig.cache
+E:\Rider Repos\Enormous Input and Output Test\Enormous Input and Output Test\obj\Debug\net7.0\ref\Enormous Input and Output Test.dll
