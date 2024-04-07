@@ -1,20 +1,20 @@
-## SPOJ TASKS<br />
-<br />
-### Nabilhacker:<br />
+## SPOJ TASKS
+
+### Nabilhacker
 https://www.spoj.com/problems/NABILHACKER/<br />
-### Enormous Input and Output Test<br />
+### Enormous Input and Output Test
 https://www.spoj.com/submit/INOUTEST/id=32796540<br />
-### Enormous Input Test<br />
+### Enormous Input Test
 https://www.spoj.com/problems/INTEST/<br />
-### Apoorv and Math problem<br />
+### Apoorv and Math problem
 https://www.spoj.com/problems/SAS002/<br />
-### Bits, Exponents and Gcd<br />
+### Bits, Exponents and Gcd
 https://www.spoj.com/problems/TOUGH/<br />
-### Medium Factorization<br />
+### Medium Factorization
 https://www.spoj.com/problems/FACTCG2/<br />
-### Tautology<br />
+### Tautology
 https://www.spoj.com/problems/TAUT/<br />
-### Aggresive Cows<br />
+### Aggresive Cows
 https://www.spoj.com/problems/AGGRCOW/<br />
-### Minimum Bounding Rectangle<br />
+### Minimum Bounding Rectangle
 https://www.spoj.com/problems/HS12MBR/<br />
