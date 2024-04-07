@@ -1,0 +1,15 @@
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\bin\Debug\net7.0\Enormous Input Test.exe
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\bin\Debug\net7.0\Enormous Input Test.deps.json
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\bin\Debug\net7.0\Enormous Input Test.runtimeconfig.json
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\bin\Debug\net7.0\Enormous Input Test.dll
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\bin\Debug\net7.0\Enormous Input Test.pdb
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\Enormous Input Test.csproj.AssemblyReference.cache
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\Enormous Input Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\Enormous Input Test.AssemblyInfoInputs.cache
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\Enormous Input Test.AssemblyInfo.cs
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\Enormous Input Test.csproj.CoreCompileInputs.cache
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\Enormous Input Test.dll
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\refint\Enormous Input Test.dll
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\Enormous Input Test.pdb
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\Enormous Input Test.genruntimeconfig.cache
+E:\Rider Repos\Enormous Input Test\Enormous Input Test\obj\Debug\net7.0\ref\Enormous Input Test.dll
